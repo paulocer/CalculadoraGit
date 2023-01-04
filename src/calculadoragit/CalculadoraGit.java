@@ -11,6 +11,15 @@ package calculadoragit;
 
 public class CalculadoraGit {
 
+        /**
+         * 1. Declaração de variáveis de classe
+         */
+        static int x, y;
+        static int soma;
+        static int subtracao;
+        static int multiplicacao;
+        static int divisao;
+    
     /**
      * @param args the command line arguments
      */
